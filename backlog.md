@@ -1,0 +1,12 @@
+  1. [ ] Configure web page + glueing API
+  -  [ ] Define glueing API resty commands
+  -  [ ] Implement web site template
+    - [ ] some sort of presentation
+    - [ ] insert OSM map using ?? framework
+    - events placeholders
+  - [ ] tmoms-api request from web site
+  - [ ] fetch tm data on demand (from tmoms-api)
+  - [ ] fetch osm data from tmoms-api
+  - [ ] return data form tmoms-api to tmoms web site
+  - [ ] visualize the map!
+  - [ ] Celebrate
