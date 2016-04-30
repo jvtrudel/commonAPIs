@@ -6,7 +6,7 @@ API is an important concept in collaborative web development. Combining differen
 
 This project is an attempt to formalize the problem as a pattern that could inspire solution developpers and enhance collaborative tools development.
 
-![example](https://github.com/jvtrudel)
+![example](https://github.com/jvtrudel/data/example1.jpg)
 
 ## Ontology
 
