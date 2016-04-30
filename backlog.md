@@ -1,5 +1,6 @@
   1. [ ] Configure web page + glueing API
   -  [ ] Define glueing API resty commands
+  -  [ ] Mise en place d'elastic Search (Yan)
   -  [ ] Implement web site template
     - [ ] some sort of presentation
     - [ ] insert OSM map using ?? framework
